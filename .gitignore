@@ -1,0 +1,12 @@
+# Ignorar archivos de compilación
+/bin/
+/target/
+/out/
+
+# Ignorar configuración de IDEs
+/.idea/
+/.vscode/
+/*.iml
+
+# Ignorar logs
+*.log
